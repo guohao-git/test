@@ -5,6 +5,6 @@ public class HelloWorld {
         System.out.println("这是我的第一个git测试。");
         System.out.println("更新内容");
         System.out.println("66");
-        System.out.println("00000");
+        System.out.println("000003");
     }
 }
